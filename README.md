@@ -8,3 +8,6 @@ Some branching commands
 - `git branch <branch-name>`-- creates a branch called `<branch-name>` AKA whaever you wanna name the branch
 - `git checkout` --checks out the branch called branch-name
 - `git push remote-name branch-name`  --pushes code from branch-name to the remote remote-name (usually origin)
+- `git merge --no-ff <branch-name`- `<branch-name` is branch you want to merge into the branch you are currently in
+
+I am causing trouble...
